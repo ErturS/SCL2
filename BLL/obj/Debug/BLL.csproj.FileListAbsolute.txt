@@ -1,0 +1,6 @@
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\BLL\bin\Debug\BLL.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\BLL\bin\Debug\BLL.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\BLL\obj\Debug\BLL.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\BLL\obj\Debug\BLL.pdb

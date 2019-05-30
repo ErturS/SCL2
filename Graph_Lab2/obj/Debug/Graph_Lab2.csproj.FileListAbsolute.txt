@@ -1,0 +1,28 @@
+G:\Графика\My\Graph_Lab2\obj\Debug\Graph_Lab2.csprojAssemblyReference.cache
+G:\Графика\My\Graph_Lab2\obj\Debug\Graph_Lab2.csproj.GenerateResource.cache
+G:\Графика\My\Graph_Lab2\bin\Debug\Graph_Lab2.exe.config
+G:\Графика\My\Graph_Lab2\bin\Debug\Graph_Lab2.exe
+G:\Графика\My\Graph_Lab2\bin\Debug\Graph_Lab2.pdb
+G:\Графика\My\Graph_Lab2\bin\Debug\DevComponents.DotNetBar2.dll
+G:\Графика\My\Graph_Lab2\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Графика\My\Graph_Lab2\obj\Debug\Graph_Lab2.Form.resources
+G:\Графика\My\Graph_Lab2\obj\Debug\Graph_Lab2.csproj.CoreCompileInputs.cache
+G:\Графика\My\Graph_Lab2\obj\Debug\Graph_Lab2.csproj.CopyComplete
+G:\Графика\My\Graph_Lab2\obj\Debug\Graph_Lab2.exe
+G:\Графика\My\Graph_Lab2\obj\Debug\Graph_Lab2.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\Graph_Lab2.exe.config
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\Graph_Lab2.exe
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\Graph_Lab2.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\DevComponents.DotNetBar2.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\obj\Debug\Graph_Lab2.csprojAssemblyReference.cache
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\obj\Debug\Graph_Lab2.csproj.GenerateResource.cache
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\obj\Debug\Graph_Lab2.csproj.CoreCompileInputs.cache
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\obj\Debug\Graph_Lab2.csproj.CopyComplete
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\obj\Debug\Graph_Lab2.exe
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\obj\Debug\Graph_Lab2.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\BLL.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\BLL.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\obj\Debug\Graph_Lab2.MainView.resources
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\Graph_Lab2.Plugin.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2\bin\Debug\Graph_Lab2.Plugin.pdb

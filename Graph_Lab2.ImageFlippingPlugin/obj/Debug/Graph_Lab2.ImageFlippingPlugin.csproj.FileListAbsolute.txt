@@ -1,0 +1,11 @@
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\bin\Debug\Graph_Lab2.ImageFlippingPlugin.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\bin\Debug\Graph_Lab2.ImageFlippingPlugin.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\bin\Debug\Graph_Lab2.Plugin.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\bin\Debug\Graph_Lab2.Plugin.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\obj\Debug\Graph_Lab2.ImageFlippingPlugin.csproj.CoreCompileInputs.cache
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\obj\Debug\Graph_Lab2.ImageFlippingPlugin.csproj.CopyComplete
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\obj\Debug\Graph_Lab2.ImageFlippingPlugin.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\obj\Debug\Graph_Lab2.ImageFlippingPlugin.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\bin\Debug\BLL.dll
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\bin\Debug\BLL.pdb
+E:\ERTUR\drive\usb_drive_2019\Конструирование ПО\Lab2\Graph_Lab2.ImageFlippingPlugin\obj\Debug\Graph_Lab2.ImageFlippingPlugin.csprojAssemblyReference.cache
